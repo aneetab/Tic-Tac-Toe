@@ -11,6 +11,7 @@ function Winner(squares)
         [2,4,6],
 
     ]
+    ABCD
     for(let i=0;i<lines.length;i++)
     {
         const [a,b,c]=lines[i];
